@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IsJylALZvlbSK0szgWUAbOMsx+1+N/kNG10W+2KBCnPIKk5C5UG9X+4SKZZLeML+4q1ndwiCRhbfkdoiUy2xHg==",
+  "success": true,
+  "projectFilePath": "E:\\QAL\\Total Learning C#\\Live\\AllDemos\\ConnectingToOtherSystems\\HostingAnAPIServer\\HostingAnAPIServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p_beh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

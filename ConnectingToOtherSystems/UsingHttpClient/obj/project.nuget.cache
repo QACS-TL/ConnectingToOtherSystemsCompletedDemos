@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pdd03rI50pJLvcqvO9ArhIqGcJ+NQ/St9Sho6hxHpTVBHQHUkSjtbQw9/ovXHwYT9I5j3rwjDn8HSvvqABq30w==",
+  "success": true,
+  "projectFilePath": "E:\\QAL\\Total Learning C#\\Live\\AllDemos\\ConnectingToOtherSystems\\UsingHttpClient\\UsingHttpClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p_beh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
